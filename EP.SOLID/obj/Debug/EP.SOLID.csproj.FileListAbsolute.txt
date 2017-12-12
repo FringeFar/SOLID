@@ -1,0 +1,5 @@
+/Users/carlosbueno/sources/SOLID/EP.SOLID/bin/Debug/EP.SOLID.exe
+/Users/carlosbueno/sources/SOLID/EP.SOLID/bin/Debug/EP.SOLID.pdb
+/Users/carlosbueno/sources/SOLID/EP.SOLID/obj/Debug/EP.SOLID.csproj.CoreCompileInputs.cache
+/Users/carlosbueno/sources/SOLID/EP.SOLID/obj/Debug/EP.SOLID.exe
+/Users/carlosbueno/sources/SOLID/EP.SOLID/obj/Debug/EP.SOLID.pdb
